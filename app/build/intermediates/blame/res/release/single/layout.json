@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_myspinner.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_myspinner.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_listrow_prompt_title.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_listrow_prompt_title.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_tcpdump_listrow.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_tcpdump_listrow.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_param_out_edit.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_param_out_edit.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_logactivity.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_logactivity.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_perf_detail.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_perf_detail.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_drop_default_listitem.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_drop_default_listitem.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_inlistrow_value.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_inlistrow_value.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_gps.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_gps.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_opperfdialog.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_opperfdialog.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_battery_stats_listrow.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_battery_stats_listrow.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_param_in_edit.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_param_in_edit.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_perf_group_tag_list_item.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_perf_group_tag_list_item.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_gwsetting.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_gwsetting.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_perf_op_detail_sm.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_perf_op_detail_sm.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_outlistrow_value.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_outlistrow_value.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_loglist_item.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_loglist_item.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_simple_dropdown_small.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_simple_dropdown_small.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_logswitch.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_logswitch.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_splash.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_splash.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_dailog_save.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_dailog_save.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_simple_dropdown_item.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_simple_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_log_search_list_item.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_log_search_list_item.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_screenlock.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_screenlock.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_log_search_activity.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_log_search_activity.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_gps_replay.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_gps_replay.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gw_showapp_row.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gw_showapp_row.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\legalterm_body.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\legalterm_body.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_plugin_item.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_plugin_item.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_param_top.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_param_top.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_param_out.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_param_out.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_perf_op_detail.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_perf_op_detail.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\timer_list_item.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\timer_list_item.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_dailog_save_gw.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_dailog_save_gw.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_battery_stats_pkg_listrow.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_battery_stats_pkg_listrow.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_edit_list_item.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_edit_list_item.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_float_netswitch.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_float_netswitch.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_toast.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_toast.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_perfactivity.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_perfactivity.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_othersm.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_othersm.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_float_getproinfo.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_float_getproinfo.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_showhtml.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_showhtml.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_netwake_listrow.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_netwake_listrow.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_aboutactivity.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_aboutactivity.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_perf_op_mul_detail.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_perf_op_mul_detail.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_capture.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_capture.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_listrow_title.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_listrow_title.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_plugin.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_plugin.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_floatview_setting.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_floatview_setting.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_settingactivity.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_settingactivity.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_memfill.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_memfill.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_checkbox_dropdown_filename.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_checkbox_dropdown_filename.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_perf_list_item.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_perf_list_item.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_floatview3.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_floatview3.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_entrance.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_entrance.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_spinner_dropdown_filename.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_spinner_dropdown_filename.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_spinner_dropdown_tag_pid.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_spinner_dropdown_tag_pid.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_param_in.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_param_in.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_inputparamset.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_inputparamset.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gw_showapp.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gw_showapp.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pi_battery.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\pi_battery.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\layout\\gt_activity_main.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\layout\\gt_activity_main.xml"
+    }
+]

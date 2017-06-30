@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Downloads\android\app\libs\mid-sdk-3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57fb25a1a9a36894b7f55d95d8322467f84f9c78">
+        <dex dex="F:\Downloads\android\app\build\intermediates\pre-dexed\debug\mid-sdk-3.6_bb98e91ea7e6cfbfd6b819f04d32e985bc99b187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Downloads\android\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="636f0fc2e3ad660ba46e0632d44891ae1a616c81">
+        <dex dex="F:\Downloads\android\app\build\intermediates\pre-dexed\debug\android-support-v13_c28ba52bfff605ecea4e6a8b33b68b0bc0dd9f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Downloads\android\app\libs\bugly_crash_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b81477eeb6face06ded0212312b61a1acca709a4">
+        <dex dex="F:\Downloads\android\app\build\intermediates\pre-dexed\debug\bugly_crash_release_b3a894470d940b2e29f1aa0b9365bd561aace831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Downloads\android\app\libs\mta-sdk-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="08910bc2eed14448fcfcf377cc60840f7ea6befb">
+        <dex dex="F:\Downloads\android\app\build\intermediates\pre-dexed\debug\mta-sdk-2.2.1_ddf1b406bd2ff5447c1704eae4770531e65ee714.jar" />
+    </item>
+
+</items>

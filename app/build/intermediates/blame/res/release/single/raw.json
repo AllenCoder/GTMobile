@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\tcpdump",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\raw\\tcpdump"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\tcpdump6",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\raw\\tcpdump6"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\release\\raw\\greattit.mp3",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\raw\\greattit.mp3"
+    }
+]

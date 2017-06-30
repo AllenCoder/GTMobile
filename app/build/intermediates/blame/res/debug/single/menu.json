@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]

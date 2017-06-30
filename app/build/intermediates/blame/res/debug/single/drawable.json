@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginfo.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\loginfo.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gw_start.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\gw_start.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logerror.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\logerror.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_gt_drop_default_listitem_textview.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\a_gt_drop_default_listitem_textview.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logfilterselector.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\logfilterselector.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected_border.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\tab_selected_border.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_gt_inparam_top.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\a_gt_inparam_top.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_selected.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\edit_selected.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swbtn_default.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\swbtn_default.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_screenlock.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_screenlock.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_gt.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\about_gt.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_bugly.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_bugly.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loglevelandfilterbackground.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\loglevelandfilterbackground.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_memfill.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_memfill.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tcpdump_switch_on_border.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\tcpdump_switch_on_border.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logfilterselector.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\logfilterselector.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_batterystate.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_batterystate.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_on_border.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\switch_on_border.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logfilterdefault.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\logfilterdefault.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_off_border.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\switch_off_border.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gt_entrlogo2.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\gt_entrlogo2.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suggest_border.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\suggest_border.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo3.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\logo3.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo3.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\logo3.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_gt.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\splash_gt.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tcpdump_border.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\tcpdump_border.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_memfill.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_memfill.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logwarn.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\logwarn.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suggest_border.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\suggest_border.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swbtn_bottom.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\swbtn_bottom.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divid_line.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\divid_line.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_cpuinfo.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_cpuinfo.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gt_entrlogo.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\gt_entrlogo.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_gt_drop_default_listitem_textview.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\a_gt_drop_default_listitem_textview.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gtcheckbox.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\gtcheckbox.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gt_apk.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\gt_apk.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_capture.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_capture.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_window_bg.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\dialog_window_bg.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logwarn.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\logwarn.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_gt.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\about_gt.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_window_bg.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\dialog_window_bg.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memfloatview.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\memfloatview.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_netwake.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_netwake.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_text.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\splash_text.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swbtn_selected.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\swbtn_selected.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logdebug.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\logdebug.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_gt_drop_textview.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\a_gt_drop_textview.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logassert.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\logassert.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb2.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\seek_thumb2.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gt_entrlogo.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\gt_entrlogo.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swbtn_default.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\swbtn_default.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_border.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\seekbar_border.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logverbose.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\logverbose.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_gps.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_gps.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logdebug.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\logdebug.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_on_border.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\switch_on_border.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swbtn_bottom.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\swbtn_bottom.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_text.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\splash_text.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_background.9.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\seekbar_background.9.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_netwake.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_netwake.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb2.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\seek_thumb2.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_gt_inparam_top.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\a_gt_inparam_top.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_screenlock.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_screenlock.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_capture.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_capture.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_text.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\button_text.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_bg.9.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\alert_bg.9.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logassert.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\logassert.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_default_border.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\tab_default_border.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_gps.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_gps.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_cpuinfo.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_cpuinfo.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editbtn.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\editbtn.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_procinfo.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_procinfo.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logfilterdefault.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\logfilterdefault.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drag.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\drag.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gw_pause.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\gw_pause.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_background.9.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\seekbar_background.9.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_drawable.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\seekbar_drawable.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_selected.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\edit_selected.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_battery.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_battery.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_gt_drop_textview.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\a_gt_drop_textview.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_procinfo.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_procinfo.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loglevelandfilterbackground.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\loglevelandfilterbackground.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logverbose.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\logverbose.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_netswitch.jpg",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_netswitch.jpg"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divid_line.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\divid_line.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_injector.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_injector.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gt_apk.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\gt_apk.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swbtn_selected.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\swbtn_selected.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_text.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\button_text.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_drawable.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\seekbar_drawable.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logerror.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\logerror.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_his_shape.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\textview_his_shape.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gtcheckbox.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\gtcheckbox.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\memfloatview.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\memfloatview.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_bg_shape.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\textview_bg_shape.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gw_start.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\gw_start.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_border.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\seekbar_border.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_his_shape.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\textview_his_shape.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editbtn.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\editbtn.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo1.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switch_off_border.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\switch_off_border.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selected_border.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\tab_selected_border.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginfo.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\loginfo.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_bugly.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_bugly.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_bg_shape.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\textview_bg_shape.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tcpdump_border.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\tcpdump_border.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_injector.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_injector.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gt_entrlogo2.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\gt_entrlogo2.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_gt.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\splash_gt.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tcpdump_switch_on_border.xml",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\tcpdump_switch_on_border.xml"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_bg.9.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\alert_bg.9.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo1.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_battery.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_battery.png"
+    },
+    {
+        "merged": "F:\\Downloads\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_batterystate.png",
+        "source": "F:\\Downloads\\android\\app\\src\\main\\res\\drawable\\pi_batterystate.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gw_pause.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\gw_pause.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drag.png",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\drag.png"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_default_border.xml",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\tab_default_border.xml"
+    },
+    {
+        "merged": "F:\\Github\\GTMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pi_netswitch.jpg",
+        "source": "F:\\Github\\GTMobile\\app\\src\\main\\res\\drawable\\pi_netswitch.jpg"
+    }
+]
